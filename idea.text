@@ -1,0 +1,4 @@
+write a code in pygame with class
+ Game which has a init function which
+  sets the screen and update function
+   to update the display and a run function 
